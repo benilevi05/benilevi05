@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benilevi05
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, React, and Node
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
